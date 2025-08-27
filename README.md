@@ -22,24 +22,6 @@ This project addresses two challenges:
 
 ---
 
-## 📁 Project Structure  
-
-customer-churn-sales-dashboard/
-│
-├── data/
-│   └── CRM Data.xlsx              # Dataset with Lead and Order info
-│
-├── churn.ipynb                    # Jupyter Notebook with churn model pipeline
-├── Churn_CRM_Report.pdf           # Detailed churn analysis report
-├── Sales_Dashboard.pbix           # Interactive Power BI sales dashboard
-│
-├── README.md                      # Project overview and guide
-└── requirements.txt               # Python dependencies
-
-
-
----
-
 ## 🧾 Dataset Description  
 
 - **Source**: CRM system used during internship  
